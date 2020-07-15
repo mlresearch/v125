@@ -1,0 +1,65 @@
+---
+booktitle: Proceedings of Thirty Third Conference on Learning Theory
+shortname: COLT
+year: '2020'
+publisher: PMLR
+volume: 125
+location: Virtual
+published: 2020-07-15
+start: 2020-07-09
+end: 2020-07-12
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: colt2020
+month: 0
+cycles: false
+bibtex_editor: Abernethy, Jacob and Agarwal, Shivani
+editor:
+- given: Jacob
+  family: Abernethy
+- given: Shivani
+  family: Agarwal
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of Thirty Third Conference on Learning Theory on 09-12 July 2020
+
+  Published as Volume 125 by the Proceedings of Machine Learning Research on 15 July 2020.
+
+  Volume Edited by:
+    Jacob Abernethy
+    Shivani Agarwal
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: '09--12 Jul'
+url: http://proceedings.mlr.press
+baseurl: "/v125"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v125
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Conference on Learning Theory
+  url: 
+  location: ''
+  dates:
+  - 2020-07-09
+  - 2020-07-10
+  - 2020-07-11
+  - 2020-07-12
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/mreid/mlresearch/v125/colt2020.bib
