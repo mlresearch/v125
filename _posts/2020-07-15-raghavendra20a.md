@@ -23,8 +23,8 @@ order: 3206
 cycles: false
 bibtex_author: Prasad, Raghavendra and Yau, Morris
 author:
-- given: Raghavendra
-  family: Prasad
+- given: Prasad
+  family: Raghavendra
 - given: Morris
   family: Yau
 date: 2020-07-15
@@ -38,7 +38,7 @@ issued:
   - 2020
   - 7
   - 15
-pdf: http://proceedings.mlr.press/v125/prasad20a/prasad20a.pdf
+pdf: http://proceedings.mlr.press/v125/raghavendra20a/raghavendra20a.pdf
 extras: []
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
