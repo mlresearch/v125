@@ -21,7 +21,7 @@ lastpage: 3226
 page: 3206-3226
 order: 3206
 cycles: false
-bibtex_author: Prasad, Raghavendra and Yau, Morris
+bibtex_author: Raghavendra, Prasad and Yau, Morris
 author:
 - given: Prasad
   family: Raghavendra
