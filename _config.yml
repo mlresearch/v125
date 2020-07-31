@@ -10,6 +10,7 @@ start: 2020-07-09
 end: 2020-07-12
 layout: proceedings
 series: Proceedings of Machine Learning Research
+issn: 2640-3498
 id: colt2020
 month: 0
 cycles: false
@@ -38,8 +39,11 @@ baseurl: "/v125"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
+plugins:
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
 permalink: "/:title.html"
-github:
+ghub:
   edit: true
   repository: v125
 display:
@@ -61,5 +65,6 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/bibtex.bib"
 # Site settings
-# Auto generated from /Users/mreid/mlresearch/v125/colt2020.bib
+# Original source:  /Users/neil/mlresearch/bibtex.bib
